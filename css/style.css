@@ -1614,7 +1614,7 @@ input[type="submit"] {
 	height: 100%;
 	}
 	.w-logo-h {
-		height: 100%;
+		height: 95%;
 		}
 		.w-logo-link {
 			display: block;
@@ -1624,7 +1624,7 @@ input[type="submit"] {
 				display: inline-block;
 				vertical-align: middle;
 				max-height: 100%;
-				height: 50%;
+				height: 100%;
 				}
 			.w-logo-title {
 				font-size: 36px;
